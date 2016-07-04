@@ -1157,6 +1157,9 @@ hr {
 [role="button"] {
   cursor: pointer;
 }
+h2, .h2 {
+  display: none;
+}
 h1,
 h2,
 h3,
