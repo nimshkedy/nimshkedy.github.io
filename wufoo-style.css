@@ -1160,6 +1160,21 @@ hr {
 h2, .h2 {
   display: none;
 }
+.h2.freeHeading:after {
+  content: 'Thank you. We will contact you soon.';
+}
+h2.freeHeading:after {
+  content: 'Thank you. We will contact you soon.';
+}
+.create-message {
+  display: none;
+}
+.start-cta {
+  display: none;
+}
+.logo-container {
+  display: none;
+}
 h1,
 h2,
 h3,
